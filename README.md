@@ -1,10 +1,11 @@
-# Power BI for data visualisation and reporting
-# More details of how this report is generated will be added
+Power BI for data visualisation and reporting
+More details to be be added
 
 ########## This is a developing project ##########
-# The visualisation shows the "Sales amount vs months", "Geographic location of sales", "Sales amount by product category"
-# The data visualisation clearly shows how sales are performing and helps business decision making. 
-# It seems more investiment should go to the Bikes category and North America consumer demand is strong!
+
+The visualisation shows the "Sales amount vs months", "Geographic location of sales", "Sales amount by product category"
+The data visualisation clearly shows how sales are performing and helps business decision making. 
+It seems more investiment should go to the Bikes category and North America consumer demand is strong!
 ![image](https://user-images.githubusercontent.com/76986018/144152466-3553fa7c-ede1-41e8-9b3e-7195096c227c.png)
 
-# I can share this report with the team, so management can make a decision.
+This reported can be shared with teams to assist business decision making.
