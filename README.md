@@ -9,4 +9,4 @@ It seems more investiment should go to the Bikes category and North America cons
 
 ![image](https://user-images.githubusercontent.com/76986018/144152466-3553fa7c-ede1-41e8-9b3e-7195096c227c.png)
 
-This reported can be shared with teams to assist business decision making.
+This report can be shared with teams to assist business decision making.
