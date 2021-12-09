@@ -1,5 +1,5 @@
 Power BI for data visualisation and reporting
-More details to be be added
+More details to be added
 
 ########## This is a developing project ##########
 
