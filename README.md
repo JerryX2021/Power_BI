@@ -10,7 +10,7 @@ It seems more investiment should go to the :bike: Bikes category and :earth_amer
 
 ![image](https://user-images.githubusercontent.com/76986018/144152466-3553fa7c-ede1-41e8-9b3e-7195096c227c.png)
 
-This report can be shared with teams to assist business decision making. :clipboard: :chart_with_upwards_trend: :clipboard:
+This report can be shared with teams to assist business decision making. :clipboard: :chart_with_upwards_trend: :moneybag:
 
 The model details of this dashboard is presented below.
 A star schema model with the :green_book: Fact table (at the center) linked with :notebook: Dimension tables (in the surrounding). 
