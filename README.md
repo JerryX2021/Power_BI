@@ -14,4 +14,4 @@ This report can be shared with teams to assist business decision making.
 The model details of this dashboard is presented below.
 A star schema model with the Fact table (in the center) linked with Dimension tables (in the surround). 
 
-![image](https://user-images.githubusercontent.com/76986018/146720522-47523c43-b488-4d71-9da1-ef91c4bf6d6b.png)
+![image](https://user-images.githubusercontent.com/76986018/146721142-0abd96a4-d495-4031-9456-747ae24bc481.png)
